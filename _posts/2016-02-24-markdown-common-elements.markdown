@@ -9,8 +9,9 @@ tag:
 - elements
 star: true
 category: blog
-author: johndoe
+author: admchrysler
 description: Markdown summary with different options
+hidden: false # don't count this post in blog pagination
 ---
 
 ## Summary:
