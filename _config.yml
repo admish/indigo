@@ -34,22 +34,22 @@ disqus:
   categories: # [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: adium
+# facebook: adium
 twitter: admish
-google: admchrysler
-instagram: admish
-pinterest: mypinterest
+# google:
+# instagram: admish
+# pinterest:
 linkedin: adium
-youtube: adium
-spotify: adium
+# youtube: adium
+# spotify: admish
 github: admish
-lastfm: mylastfm
-stackoverflow: 7044681/mystackoverflow
-quora: userquora
+# lastfm: ExitPixel
+stackoverflow: 2589674/admish
+# quora: userquora
 reddit: Adium
-medium: medium
-vimeo: myvimeo
-lanyrd: mylanyrd
+# medium: medium
+# vimeo: myvimeo
+# lanyrd: mylanyrd
 email: admchrysler@gmail.com
 
 authors:
